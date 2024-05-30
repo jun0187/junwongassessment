@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1717045023948" clover="3.2.0">
+  <project timestamp="1717045023948" name="All files">
+    <metrics statements="89" coveredstatements="76" conditionals="40" coveredconditionals="31" methods="32" coveredmethods="28" elements="161" coveredelements="135" complexity="0" loc="89" ncloc="89" packages="5" files="10" classes="10"/>
+    <package name="MovieProject">
+      <metrics statements="5" coveredstatements="4" conditionals="2" coveredconditionals="1" methods="2" coveredmethods="1"/>
+      <file name="App.tsx" path="/Users/junwong/Documents/Developer/MovieProject/App.tsx">
+        <metrics statements="5" coveredstatements="4" conditionals="2" coveredconditionals="1" methods="2" coveredmethods="1"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="15" count="2" type="stmt"/>
+        <line num="16" count="21" type="stmt"/>
+        <line num="22" count="2" type="stmt"/>
+        <line num="23" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="MovieProject.src">
+      <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="constant.tsx" path="/Users/junwong/Documents/Developer/MovieProject/src/constant.tsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="4" type="stmt"/>
+        <line num="4" count="4" type="stmt"/>
+        <line num="24" count="4" type="stmt"/>
+      </file>
+      <file name="store.tsx" path="/Users/junwong/Documents/Developer/MovieProject/src/store.tsx">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="6" count="3" type="stmt"/>
+        <line num="7" count="3" type="stmt"/>
+        <line num="9" count="3" type="stmt"/>
+        <line num="14" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="MovieProject.src.reducer">
+      <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="index.reducer.tsx" path="/Users/junwong/Documents/Developer/MovieProject/src/reducer/index.reducer.tsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="4" count="3" type="stmt"/>
+      </file>
+      <file name="movie.reducer.tsx" path="/Users/junwong/Documents/Developer/MovieProject/src/reducer/movie.reducer.tsx">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="10" count="4" type="stmt"/>
+        <line num="15" count="4" type="stmt"/>
+        <line num="20" count="18" type="stmt"/>
+        <line num="23" count="7" type="stmt"/>
+        <line num="28" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="MovieProject.src.saga">
+      <metrics statements="22" coveredstatements="18" conditionals="4" coveredconditionals="1" methods="8" coveredmethods="7"/>
+      <file name="index.saga.tsx" path="/Users/junwong/Documents/Developer/MovieProject/src/saga/index.saga.tsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="5" count="3" type="stmt"/>
+      </file>
+      <file name="movie.saga.tsx" path="/Users/junwong/Documents/Developer/MovieProject/src/saga/movie.saga.tsx">
+        <metrics statements="21" coveredstatements="17" conditionals="4" coveredconditionals="1" methods="7" coveredmethods="6"/>
+        <line num="11" count="6" type="stmt"/>
+        <line num="13" count="6" type="stmt"/>
+        <line num="14" count="6" type="cond" truecount="1" falsecount="1"/>
+        <line num="15" count="6" type="stmt"/>
+        <line num="18" count="6" type="stmt"/>
+        <line num="19" count="6" type="stmt"/>
+        <line num="22" count="6" type="stmt"/>
+        <line num="24" count="6" type="stmt"/>
+        <line num="25" count="6" type="stmt"/>
+        <line num="34" count="0" type="stmt"/>
+        <line num="44" count="0" type="stmt"/>
+        <line num="45" count="0" type="stmt"/>
+        <line num="47" count="0" type="stmt"/>
+        <line num="52" count="1" type="stmt"/>
+        <line num="53" count="1" type="stmt"/>
+        <line num="54" count="1" type="stmt"/>
+        <line num="63" count="1" type="stmt"/>
+        <line num="70" count="3" type="stmt"/>
+        <line num="71" count="3" type="stmt"/>
+        <line num="74" count="4" type="stmt"/>
+        <line num="80" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="MovieProject.src.screen">
+      <metrics statements="49" coveredstatements="41" conditionals="34" coveredconditionals="29" methods="20" coveredmethods="18"/>
+      <file name="Book.tsx" path="/Users/junwong/Documents/Developer/MovieProject/src/screen/Book.tsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="5" count="3" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="21" count="3" type="stmt"/>
+      </file>
+      <file name="Detail.tsx" path="/Users/junwong/Documents/Developer/MovieProject/src/screen/Detail.tsx">
+        <metrics statements="8" coveredstatements="8" conditionals="6" coveredconditionals="6" methods="4" coveredmethods="4"/>
+        <line num="17" count="2" type="stmt"/>
+        <line num="18" count="6" type="stmt"/>
+        <line num="20" count="12" type="stmt"/>
+        <line num="22" count="6" type="stmt"/>
+        <line num="27" count="6" type="stmt"/>
+        <line num="50" count="24" type="stmt"/>
+        <line num="61" count="1" type="stmt"/>
+        <line num="69" count="2" type="stmt"/>
+      </file>
+      <file name="Home.tsx" path="/Users/junwong/Documents/Developer/MovieProject/src/screen/Home.tsx">
+        <metrics statements="38" coveredstatements="30" conditionals="28" coveredconditionals="23" methods="15" coveredmethods="13"/>
+        <line num="24" count="2" type="stmt"/>
+        <line num="25" count="15" type="stmt"/>
+        <line num="26" count="15" type="stmt"/>
+        <line num="27" count="15" type="stmt"/>
+        <line num="28" count="15" type="stmt"/>
+        <line num="29" count="15" type="stmt"/>
+        <line num="30" count="15" type="stmt"/>
+        <line num="31" count="15" type="stmt"/>
+        <line num="32" count="27" type="stmt"/>
+        <line num="34" count="15" type="stmt"/>
+        <line num="41" count="15" type="stmt"/>
+        <line num="42" count="12" type="cond" truecount="2" falsecount="2"/>
+        <line num="43" count="0" type="stmt"/>
+        <line num="47" count="15" type="stmt"/>
+        <line num="48" count="7" type="stmt"/>
+        <line num="51" count="15" type="stmt"/>
+        <line num="52" count="8" type="cond" truecount="4" falsecount="0"/>
+        <line num="53" count="6" type="stmt"/>
+        <line num="62" count="15" type="stmt"/>
+        <line num="63" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="69" count="1" type="stmt"/>
+        <line num="71" count="0" type="stmt"/>
+        <line num="72" count="0" type="stmt"/>
+        <line num="75" count="15" type="stmt"/>
+        <line num="90" count="1" type="stmt"/>
+        <line num="91" count="6" type="stmt"/>
+        <line num="93" count="0" type="stmt"/>
+        <line num="94" count="0" type="stmt"/>
+        <line num="95" count="0" type="stmt"/>
+        <line num="101" count="1" type="stmt"/>
+        <line num="108" count="1" type="stmt"/>
+        <line num="109" count="1" type="stmt"/>
+        <line num="110" count="1" type="stmt"/>
+        <line num="113" count="24" type="stmt"/>
+        <line num="115" count="18" type="stmt"/>
+        <line num="121" count="0" type="stmt"/>
+        <line num="122" count="0" type="stmt"/>
+        <line num="154" count="2" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
