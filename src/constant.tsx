@@ -16,7 +16,7 @@ export enum IMAGE_URI {
 
 export enum API {
   API_KEY = "328c283cd27bd1877d9080ccb1604c91",
-  API_PREFIX = "https://api.themoviedb.org/3/",
+  API_PREFIX = "https://api.themoviedb.org/3",
   LISTING_API = API_PREFIX + "/discover/movie",
   DETAIL_API = API_PREFIX + "/movie/{movieId}",
 }
